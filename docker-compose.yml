@@ -3,5 +3,5 @@ services:
   todos:
     build: .
     ports:
-      - "55555:55555"
+      - "8080:8080"
 
